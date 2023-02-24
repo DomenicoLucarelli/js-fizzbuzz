@@ -9,7 +9,7 @@
 
 body{
     background-color: #000814;
-    overflow: hidden;
+    
 }
 #container{
 
@@ -26,8 +26,8 @@ body{
 #card{
     
 
-    padding-bottom: 100px;
-    padding-top: 80px;
+    
+    
     display: flex;
     justify-content: center;
     width: 800px;
